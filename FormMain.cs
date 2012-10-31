@@ -73,18 +73,6 @@ namespace FileChangeNotifier
 
         private void OnChanged(object sender, FileSystemEventArgs e)
         {
-            //if (!m_bDirty)
-            //{
-            //    m_Sb.Remove(0, m_Sb.Length);
-            //    m_Sb.Append(e.FullPath);
-            //    m_Sb.Append(" ");
-            //    m_Sb.Append(e.ChangeType.ToString());
-            //    m_Sb.Append("    ");
-            //    m_Sb.Append(DateTime.Now.ToString());
-            //    m_bDirty = true;
-            //}
-            //try
-            //{
             System.Text.UTF8Encoding encoding = new System.Text.UTF8Encoding();
             m_Sb.Remove(0, m_Sb.Length);
             m_Sb.Append(e.FullPath);
@@ -113,6 +101,7 @@ namespace FileChangeNotifier
                 m_Sb.Append(e.Name);
                 m_Sb.Append("    ");
                 m_Sb.Append(DateTime.Now.ToString());
+                m_Sb.Append(" finish");
                 m_bDirty = true;
                 if (rdbFile.Checked)
                 {
