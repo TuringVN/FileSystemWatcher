@@ -1,0 +1,17 @@
+C:\MyProjects\MyToolbox\FileSystemWatcher\obj\Debug\ResolveAssemblyReference.cache
+C:\MyProjects\MyToolbox\FileSystemWatcher\obj\Debug\FileSystemWatcher.Properties.Resources.resources
+C:\MyProjects\MyToolbox\FileSystemWatcher\obj\Debug\FileChangeNotifier.csproj.GenerateResource.Cache
+C:\MyProjects\MyToolbox\FileSystemWatcher\obj\Debug\FileSystemWatcher.exe
+C:\MyProjects\MyToolbox\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+C:\MyProjects\MyToolbox\FileSystemWatcher\bin\Debug\FileSystemWatcher.pdb
+C:\MyProjects\MyToolbox\FileSystemWatcher\obj\Debug\FileSystemWatcher.pdb
+C:\MyProjects\MyToolbox\FileSystemWatcher\obj\Debug\FileChangeNotifier.frmNotifier.resources
+C:\Users\vietthangif\Documents\Visual Studio 2010\Projects\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.exe
+C:\Users\vietthangif\Documents\Visual Studio 2010\Projects\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.pdb
+C:\Users\vietthangif\Documents\Visual Studio 2010\Projects\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+C:\Users\vietthangif\Documents\Visual Studio 2010\Projects\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.pdb
+C:\Users\vietthangif\Documents\Visual Studio 2010\Projects\FileSystemWatcher\FileSystemWatcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vietthangif\Documents\Visual Studio 2010\Projects\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileChangeNotifier.frmNotifier.resources
+C:\Users\vietthangif\Documents\Visual Studio 2010\Projects\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.Properties.Resources.resources
+C:\Users\vietthangif\Documents\Visual Studio 2010\Projects\FileSystemWatcher\FileSystemWatcher\obj\Debug\ResGen.read.1.tlog
+C:\Users\vietthangif\Documents\Visual Studio 2010\Projects\FileSystemWatcher\FileSystemWatcher\obj\Debug\ResGen.write.1.tlog
